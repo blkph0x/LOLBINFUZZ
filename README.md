@@ -1,2 +1,2 @@
 # LOLBINFUZZ
-well fuzzing in fun LOL
+well fuzzing is fun LOL
